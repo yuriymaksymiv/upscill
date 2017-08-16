@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.6.0'
 gem 'bootstrap-sass'
 gem 'font-awesome-sass', '~> 4.7.0'
 gem 'jquery-rails'
+gem 'hirb', '0.7.3'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
