@@ -33,6 +33,7 @@ gem 'bootstrap-sass'
 gem 'font-awesome-sass', '~> 4.7.0'
 gem 'jquery-rails'
 gem 'hirb', '0.7.3'
+gem 'devise'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
