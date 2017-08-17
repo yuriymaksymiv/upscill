@@ -34,6 +34,8 @@ gem 'font-awesome-sass', '~> 4.7.0'
 gem 'jquery-rails'
 gem 'hirb', '0.7.3'
 gem 'devise'
+gem 'stripe', '3.3.0'
+gem 'figaro', '1.1.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
